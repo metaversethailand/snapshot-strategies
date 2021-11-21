@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "sushiswap",
+      "params": {
+        "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+        "symbol": "Cover (sushiswap)",
+        "useStakedBalances": "true"
+      }
+    },
+    "network": "1",
+    "addresses": ["0x4D9e86a5AC368Aa4Df0473eF07e13Ec2Fbe04025"],
+    "snapshot": 12972390
+  }
+]
